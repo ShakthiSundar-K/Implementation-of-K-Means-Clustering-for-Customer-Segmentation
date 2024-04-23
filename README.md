@@ -75,7 +75,7 @@ plt.show()
 ### Data:
 ![image](https://github.com/DhanushPalani/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121594640/59a35cb9-79c3-4218-b7f6-cb0180aabf2e)
 ### Centroid:
-![image](https://github.com/DhanushPalani/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121594640/beddf16c-cd06-4880-ac67-0d7184093491)
+![image](https://github.com/ShakthiSundar-K/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/128116143/b47b8130-b4c7-4b09-87f3-5b7de224c288)
 ### K-Means Clustering:
 ![image](https://github.com/DhanushPalani/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121594640/8fe1a610-cb8c-49c0-9914-263a972a6276)
 
