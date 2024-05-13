@@ -25,7 +25,7 @@ Developed by: K Shakthi Sundar
 RegisterNumber:  212222040152
 */
 ```
-```
+``` py
 
 import pandas as pd
 import numpy as np
