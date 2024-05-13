@@ -18,7 +18,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 
 ## Program:
-```
+``` py
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: K Shakthi Sundar
